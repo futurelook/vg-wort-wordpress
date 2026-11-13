@@ -30,7 +30,6 @@ Weitere Details siehe [`vgwort-zaehlmarken/readme.txt`](vgwort-zaehlmarken/readm
 ## Weitere Dateien
 
 - [`DOC_Verlagsmeldung_REST.pdf`](DOC_Verlagsmeldung_REST.pdf) – Integrationsbeschreibung METIS für Verlage
-- [`cloudflare-cache-bypass-robots-sitemap.sh`](cloudflare-cache-bypass-robots-sitemap.sh) – Skript für Cloudflare-Cache-Bypass von robots.txt/sitemap
 
 ## Lizenz
 
